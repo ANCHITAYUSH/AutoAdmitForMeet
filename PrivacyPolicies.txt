@@ -1,0 +1,45 @@
+Privacy Policy for "Auto Admit for Meet"
+Effective Date: 24th May 2024
+
+Thank you for using the "Auto Admit for Meet" Chrome extension. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our extension.
+
+1. Information We Collect
+
+The "Auto Admit for Meet" extension does not collect, store, or share any personal data from your Google Meet sessions or any other activities.
+
+2. How the Extension Works
+
+To function properly, the extension requires access to your Google Meet tabs. This access is necessary to:
+
+Detect when participants are waiting in the Google Meet lobby.
+Automatically admit participants into the meeting.
+The extension operates solely within the Google Meet environment and does not access any other information on your device or browser.
+
+3. Permissions
+
+The extension requests the following permissions:
+
+Host Permission: To interact with your Google Meet tabs for the purpose of detecting and admitting guests.
+These permissions are strictly used to automate the guest admission process and improve your meeting experience.
+
+4. Data Usage
+
+The extension does not collect or transmit any data from your Google Meet sessions.
+No personal information, meeting details, or participant information is stored or shared.
+5. Security
+
+We are committed to ensuring the security of your data. The extension operates locally on your device and does not transmit any data to external servers. We implement appropriate technical measures to protect the extension's operations.
+
+6. User Control
+
+You can disable or remove the extension at any time through your browser's settings.
+The extension only functions when you are actively using Google Meet and have participants waiting to be admitted.
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. We encourage you to review this Privacy Policy periodically.
+
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or the extension, please contact us at anchitayush@gmail.com.
+
+By using the "Auto Admit for Meet" extension, you agree to this Privacy Policy. Thank you for trusting us to enhance your Google Meet experience.
