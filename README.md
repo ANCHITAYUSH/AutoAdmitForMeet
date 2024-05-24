@@ -1,6 +1,5 @@
 # AutoAdmitForMeet
 
-##Overview:
 Simplify your Google Meet experience with the "Auto Admit for Meet" Chrome extension. Say goodbye to the repetitive task of manually admitting each participant. This extension takes care of it for you, allowing you to focus on what's important - your meeting.
 
 ## Key Features:
